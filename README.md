@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Tenaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenaw-Worku&show_icons=true&theme=tokyonight)
  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenaw-Worku)
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenaw-Worku&layout=compact)-->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenaw-Worku&layout=compact)
 
