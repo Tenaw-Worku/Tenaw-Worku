@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tenaw!
+### Hi there 👋 I'm Tenaw! I am a Full Stack Web Developer from DCI Digital Career Institute
 
 <!--
 **Tenaw-Worku/Tenaw-Worku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
