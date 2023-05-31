@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tenaw-Worku&theme=react&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenaw-Worku)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenaw-Worku&layout=compact)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Tenaw-Work&repo=repo-name)](https://github.com/Tenaw-Worku/repo-name)
